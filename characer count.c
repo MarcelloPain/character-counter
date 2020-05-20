@@ -1,5 +1,5 @@
 /*
-* Write a program that asks the user to enter some text.
+* A program that asks the user to enter some text.
 * Then for each character taken in alphabetical order,
 * the program prints as many stars as its number of
 * occurrences. : Non-alphabetical characters (i.e.,
